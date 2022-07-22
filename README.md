@@ -109,7 +109,7 @@ The downside of this library is the lack of usage samples. It only has a usage s
 
 ---
 
-## Resume
+## Conclusion
 
 Choosing one library for a date between them and call it the best solution for your project will be quite difficult, because it all depends on the requirements of the project and the task.
 
